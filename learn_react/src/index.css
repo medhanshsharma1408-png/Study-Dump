@@ -1,3 +1,5 @@
+/* Basically contains the css part of the App.jsx */
+
 * {
   margin: 0;
   padding: 0;
@@ -13,4 +15,11 @@ body{
 
 body{
   background-color: black;
+}
+.Nav{
+  background-color: darkblue;
+  color: aliceblue;
+  font-weight: 400;
+  padding: 20px;
+  margin: 20px;
 }

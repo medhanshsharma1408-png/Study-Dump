@@ -1,0 +1,1 @@
+Components are basically reusable functions or codes. they can be used whenever wanted or need in the app component. for example Navbar,etc.
