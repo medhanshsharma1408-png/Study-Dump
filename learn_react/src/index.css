@@ -16,10 +16,22 @@ body{
 body{
   background-color: black;
 }
+
 .Nav{
   background-color: darkblue;
   color: aliceblue;
   font-weight: 400;
   padding: 20px;
-  margin: 20px;
+  margin: 30px;
+  border-radius: 30px;
+}
+
+.Card{
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 30px;
+  border: 5px solid white;
+
 }

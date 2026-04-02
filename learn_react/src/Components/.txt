@@ -1,1 +1,3 @@
-Components are basically reusable functions or codes. they can be used whenever wanted or need in the app component. for example Navbar,etc.
+1. Components are basically reusable functions or codes. they can be used whenever wanted or need in the app component. for example Navbar,etc.
+2. Props are used to change the values or data in a component. It helps in using a component multiple times by changing its data.
+   data can only be passed from the parent file. so we can  pass data to a components using App.
